@@ -2,6 +2,8 @@
 
 欢迎关注我的猫鱼周刊，主要内容为文章、开源项目、好用工具、想法的分享，技术方面倾向 Go 和 LLM，每周日更新。全部内容均为人工创作。
 
+如果你有有趣的内容想要分享，可以通过这个链接[投稿](https://github.com/LeslieLeung/cat-fish-weekly/issues/new?assignees=LeslieLeung&labels=&projects=&template=recommendations.md)。
+
 > 📝博客：[阿猫的博客-猫鱼周刊](https://ameow.xyz/categories/weekly)
 >
 > 📡RSS：[猫鱼周刊](https://ameow.xyz/feed/categories/weekly.xml)
