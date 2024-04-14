@@ -16,6 +16,7 @@
 
 ## 过往期刊
 
+- [vol. 019 55年前的大型机](https://ameow.xyz/archives/weekly-019) - 2024-04-14
 - [vol. 018 LLM 入门指北](https://ameow.xyz/archives/weekly-018) - 2024-03-31
 - [vol. 017 LLM 该怎么落地？](https://ameow.xyz/archives/weekly-017) - 2024-03-24
 - [vol. 016 万物归于 Docker ！](https://ameow.xyz/archives/weekly-016) - 2024-03-10
