@@ -16,6 +16,7 @@
 
 ## 过往期刊
 
+- [vol. 021 开源成长之路](https://ameow.xyz/archives/weekly-021) - 2024-04-28
 - [vol. 020 见过 72 个轮的车吗？](https://ameow.xyz/archives/weekly-020) - 2024-04-21
 - [vol. 019 55年前的大型机](https://ameow.xyz/archives/weekly-019) - 2024-04-14
 - [vol. 018 LLM 入门指北](https://ameow.xyz/archives/weekly-018) - 2024-03-31
