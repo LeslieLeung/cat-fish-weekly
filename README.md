@@ -16,6 +16,7 @@
 
 ## 过往期刊
 
+- [vol. 022 小心你的 S3 桶！](https://ameow.xyz/archives/weekly-022) - 2024-05-05
 - [vol. 021 开源成长之路](https://ameow.xyz/archives/weekly-021) - 2024-04-28
 - [vol. 020 见过 72 个轮的车吗？](https://ameow.xyz/archives/weekly-020) - 2024-04-21
 - [vol. 019 55年前的大型机](https://ameow.xyz/archives/weekly-019) - 2024-04-14
