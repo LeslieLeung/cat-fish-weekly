@@ -16,6 +16,7 @@
 
 ## 过往期刊
 
+- [vol. 024 如何训练一个自己的LLM](https://ameow.xyz/archives/weekly-024) - 2024-05-19
 - [vol. 023 新款 iPad 到底值不值得买？](https://ameow.xyz/archives/weekly-023) - 2024-05-12
 - [vol. 022 小心你的 S3 桶！](https://ameow.xyz/archives/weekly-022) - 2024-05-05
 - [vol. 021 开源成长之路](https://ameow.xyz/archives/weekly-021) - 2024-04-28
