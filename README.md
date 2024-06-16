@@ -16,6 +16,8 @@
 
 ## 过往期刊
 
+- [vol. 028 走啊，去扫街！](https://ameow.xyz/archives/weekly-028) - 2024-06-16
+- [vol. 027 广州特有的松弛感](https://ameow.xyz/archives/weekly-027) - 2024-06-09
 - [vol. 026 退一步海阔天空](https://ameow.xyz/archives/weekly-026) - 2024-06-02
 - [vol. 025 正在加速崩塌的「中文」](https://ameow.xyz/archives/weekly-025) - 2024-05-26
 - [vol. 024 如何训练一个自己的LLM](https://ameow.xyz/archives/weekly-024) - 2024-05-19
