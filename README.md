@@ -16,6 +16,7 @@
 
 ## 过往期刊
 
+- [vol. 029 内地第一家麦当劳](https://ameow.xyz/archives/weekly-029) - 2024-06-23
 - [vol. 028 走啊，去扫街！](https://ameow.xyz/archives/weekly-028) - 2024-06-16
 - [vol. 027 广州特有的松弛感](https://ameow.xyz/archives/weekly-027) - 2024-06-09
 - [vol. 026 退一步海阔天空](https://ameow.xyz/archives/weekly-026) - 2024-06-02
