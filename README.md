@@ -16,6 +16,8 @@
 
 ## 过往期刊
 
+- [vol. 032 蓝调时刻](https://ameow.xyz/archives/weekly-032) - 2024-07-14
+- [vol. 031 Code Review 有用吗？](https://ameow.xyz/archives/weekly-031) - 2024-07-07
 - [vol. 030 国内的「开源」环境](https://ameow.xyz/archives/weekly-030) - 2024-06-30
 - [vol. 029 内地第一家麦当劳](https://ameow.xyz/archives/weekly-029) - 2024-06-23
 - [vol. 028 走啊，去扫街！](https://ameow.xyz/archives/weekly-028) - 2024-06-16
