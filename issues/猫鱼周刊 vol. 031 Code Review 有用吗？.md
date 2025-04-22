@@ -12,7 +12,7 @@ intro: 猫鱼周刊第32期分享了一篇关于DS_store的文章，介绍了它
 >
 > RSS：[猫鱼周刊](https://ameow.xyz/feed/categories/weekly.xml)
 >
-> 邮件订阅：[猫鱼周刊](https://quail.ink/ameow)
+> 邮件订阅：[猫鱼周刊](https://quaily.com/ameow)
 >
 > 微信公众号：[猫兄的和谐号列车](http://img.ameow.xyz/202401141448662.png)
 >

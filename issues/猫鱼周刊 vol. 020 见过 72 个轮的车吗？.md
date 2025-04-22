@@ -12,7 +12,7 @@ intro: 猫鱼周刊第21期，介绍了不同设计的载具和Llama 3的发布�
 >
 > RSS：[猫鱼周刊](https://ameow.xyz/feed/categories/weekly.xml)
 >
-> 邮件订阅：[猫鱼周刊](https://quail.ink/ameow)
+> 邮件订阅：[猫鱼周刊](https://quaily.com/ameow)
 >
 > 微信公众号：[猫兄的和谐号列车](http://img.ameow.xyz/202401141448662.png)
 >
@@ -79,7 +79,6 @@ Llama 3 的发布不算什么新闻了，我挑几个点说一下：
 一个自由职业者的接单落地页，动效非常出色。
 
 ![image.png](https://img.ameow.xyz/202404211743886.png)
-
 
 ## 想法
 

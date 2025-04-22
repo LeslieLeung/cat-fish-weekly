@@ -68,6 +68,6 @@ Devv Search 是一款面向开发者的 AI 搜索引擎，基于文档、代码�
 >
 > 博客：[阿猫的博客-猫鱼周刊](https://ameow.xyz/categories/weekly)
 > 掘金(beta)：[猫鱼周刊 - 3verest 的专栏 - 掘金](https://juejin.cn/column/7302415204927012918)
-> 邮件订阅：[猫鱼周刊](https://quail.ink/ameow)
+> 邮件订阅：[猫鱼周刊](https://quaily.com/ameow)
 > Discord：[猫兄的和谐号高铁](https://discord.gg/5G5Nbtuz)
 > 私信：[leslieleung@pm.me](mailto:leslieleung@pm.me)

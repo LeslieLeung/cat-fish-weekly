@@ -12,7 +12,7 @@ intro: 这是猫鱼周刊的第 26 期，内容包括正在加速崩塌的中文
 >
 > RSS：[猫鱼周刊](https://ameow.xyz/feed/categories/weekly.xml)
 >
-> 邮件订阅：[猫鱼周刊](https://quail.ink/ameow)
+> 邮件订阅：[猫鱼周刊](https://quaily.com/ameow)
 >
 > 微信公众号：[猫兄的和谐号列车](http://img.ameow.xyz/202401141448662.png)
 >

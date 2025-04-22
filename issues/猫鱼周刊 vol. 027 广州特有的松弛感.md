@@ -12,7 +12,7 @@ intro: 这是猫鱼周刊的第28期，主要内容为每周收集内容的分�
 >
 > RSS：[猫鱼周刊](https://ameow.xyz/feed/categories/weekly.xml)
 >
-> 邮件订阅：[猫鱼周刊](https://quail.ink/ameow)
+> 邮件订阅：[猫鱼周刊](https://quaily.com/ameow)
 >
 > 微信公众号：[猫兄的和谐号列车](http://img.ameow.xyz/202401141448662.png)
 >
@@ -85,7 +85,7 @@ V2EX 最近上新了一个博客聚合器的新功能，博客被收录后，会
 
 ### 微信公众号 Markdown 排版编辑器
 
-[网站链接](https://quail.ink/tools/markdown-to-wx/)
+[网站链接](https://quaily.com/tools/markdown-to-wx/)
 
 很实用的工具，这周的微信公众号文章就是用它完成的（之前使用的是 mdnice）。
 

@@ -12,7 +12,7 @@ intro: 猫鱼周刊第23期的文章内容涉及AWS S3桶名的安全性、分�
 >
 > RSS：[猫鱼周刊](https://ameow.xyz/feed/categories/weekly.xml)
 >
-> 邮件订阅：[猫鱼周刊](https://quail.ink/ameow)
+> 邮件订阅：[猫鱼周刊](https://quaily.com/ameow)
 >
 > 微信公众号：[猫兄的和谐号列车](http://img.ameow.xyz/202401141448662.png)
 >
@@ -114,5 +114,3 @@ intro: 猫鱼周刊第23期的文章内容涉及AWS S3桶名的安全性、分�
 另外，我建了一个交流群，欢迎入群讨论或反馈。
 
 ![441714902454_.pic.jpg](https://img.ameow.xyz/202405051748021.jpg)
-
-
